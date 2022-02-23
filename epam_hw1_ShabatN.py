@@ -30,11 +30,6 @@ elif y == 'floor':
 else:
     print('This function was not developed :) have a nice day!')
 
-# TASK 3_ Write a Python-script that determines whether the input string is the correct entry for the 'formula'
-# according EBNF syntax (without using regular expressions).
-# Formula = Number | (Formula Sign Formula)
-# Sign = '+' | '-'
-# Number = '0' | '1' | '2' | '3' | '4' | '5' | '6' | '7' | '8' | '9'
 
 
 
